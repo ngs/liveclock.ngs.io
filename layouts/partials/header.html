@@ -1,0 +1,24 @@
+<header class="site-header">
+    <div class="container">
+        <div class="header-content">
+            <a href="{{ "/" | relLangURL }}" class="site-title">{{ .Site.Title }}</a>
+            <nav class="site-nav">
+                <ul class="nav-menu">
+                    <li><a href="{{ "/" | relLangURL }}">{{ i18n "home" | default "Home" }}</a></li>
+                    <li><a href="{{ "/privacy/" | relLangURL }}">{{ i18n "privacy" | default "Privacy" }}</a></li>
+                </ul>
+                {{ if hugo.IsMultilingual }}
+                <div class="language-selector">
+                    <select onchange="window.location.href = this.value;" value="{{ .Site.Language.Lang }}">
+                        {{ range .Site.Languages }}
+                        <option value="{{ .Lang | relURL }}" {{ if eq . $.Site.Language }}selected{{ end }}>
+                            {{ .LanguageName }}
+                        </option>
+                        {{ end }}
+                    </select>
+                </div>
+                {{ end }}
+            </nav>
+        </div>
+    </div>
+</header>
