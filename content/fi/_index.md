@@ -1,8 +1,14 @@
 ---
 title: "Live Clock - Keikka-ajastin"
+hero_title: "Ammattimainen tarkkuusajoitus liveesityksille"
+hero_description: "Live Clock keikka-ajastin on ammattilaisten valinta tarkkaan ajanhallintaan live-esitysten, äänitysten ja harjoitusten aikana."
+download_cta: "Lataa Live Clock the Gig Timer ja ota esityksesi ajoituksen hallinta käsiisi tänään."
+
 ---
 
-# Ammattimainen tarkkuusajoitus liveesityksille
+## Tuetut alustat
+
+Saatavilla **iOS**-, **macOS**- ja **visionOS**-käyttöjärjestelmille - saumattomasti integroitu kaikkiin Apple-laitteisiin.
 
 Live Clock keikka-ajastin on ammattilaisten valinta tarkkaan ajanhallintaan live-esitysten, äänitysten ja harjoitusten aikana.
 

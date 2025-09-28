@@ -1,8 +1,14 @@
 ---
 title: "Live Clock the Gig Timer"
+hero_title: "Profesjonalna Precyzyjna Kontrola Czasu dla Występów na Żywo"
+hero_description: "Live Clock the Gig Timer to profesjonalny wybór dla dokładnego zarządzania czasem podczas występów na żywo, sesji nagraniowych i prób."
+download_cta: "Pobierz Live Clock the Gig Timer i przejmij kontrolę nad czasem swojego występu już dziś."
+
 ---
 
-# Profesjonalna Precyzyjna Kontrola Czasu dla Występów na Żywo
+## Obsługiwane platformy
+
+Dostępne na **iOS**, **macOS** i **visionOS** - płynnie zintegrowane ze wszystkimi urządzeniami Apple.
 
 Live Clock the Gig Timer to profesjonalny wybór dla dokładnego zarządzania czasem podczas występów na żywo, sesji nagraniowych i prób.
 

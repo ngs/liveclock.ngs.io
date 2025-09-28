@@ -1,8 +1,14 @@
 ---
 title: "Live Clock the Gig Timer"
+hero_title: "Cronometrare de Precizie Profesională pentru Spectacole Live"
+hero_description: "Live Clock the Gig Timer este alegerea profesioniștilor pentru managementul precis al timpului în timpul spectacolelor live, sesiunilor de înregistrare și repetițiilor."
+download_cta: "Descărcați Live Clock the Gig Timer și preluați controlul asupra timpului performanței dvs. astăzi."
+
 ---
 
-# Cronometrare de Precizie Profesională pentru Spectacole Live
+## Platforme suportate
+
+Disponibil pe **iOS**, **macOS** și **visionOS** - integrat perfect pe toate dispozitivele Apple.
 
 Live Clock the Gig Timer este alegerea profesioniștilor pentru managementul precis al timpului în timpul spectacolelor live, sesiunilor de înregistrare și repetițiilor.
 

@@ -1,8 +1,14 @@
 ---
 title: "Live Clock the Gig Timer"
+hero_title: "Professionell Precisionstiming för Live Framträdanden"
+hero_description: "Live Clock the Gig Timer är professionellas val för noggrann tidshantering under live framträdanden, inspelningssessioner och repetitioner."
+download_cta: "Ladda ner Live Clock the Gig Timer och ta kontroll över din prestationstid idag."
+
 ---
 
-# Professionell Precisionstiming för Live Framträdanden
+## Plattformar som stöds
+
+Tillgänglig på **iOS**, **macOS** och **visionOS** - sömlöst integrerad över alla Apple-enheter.
 
 Live Clock the Gig Timer är professionellas val för noggrann tidshantering under live framträdanden, inspelningssessioner och repetitioner.
 

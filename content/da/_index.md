@@ -1,8 +1,14 @@
 ---
 title: "Live Clock Koncert Timeren"
+hero_title: "Professionel Præcisions Timing til Live Performance"
+hero_description: "Live Clock Koncert Timeren er professionelles valg til nøjagtig tidsstyring under live optrædener, indspilningssessioner og prøver."
+download_cta: "Download Live Clock the Gig Timer og tag kontrol over din performance timing i dag."
+
 ---
 
-# Professionel Præcisions Timing til Live Performance
+## Understøttede platforme
+
+Tilgængelig på **iOS**, **macOS** og **visionOS** - problemfrit integreret på tværs af alle Apple-enheder.
 
 Live Clock Koncert Timeren er professionelles valg til nøjagtig tidsstyring under live optrædener, indspilningssessioner og prøver.
 

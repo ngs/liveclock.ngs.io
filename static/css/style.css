@@ -18,6 +18,7 @@ body {
     line-height: 1.6;
     color: var(--text-color);
     background-color: var(--bg-color);
+    overflow-x: hidden;
 }
 
 .container {
@@ -82,19 +83,44 @@ body {
 /* Main Content */
 .main-content {
     min-height: calc(100vh - 200px);
-    padding: 3rem 0;
+    padding: 0;
 }
 
 .hero {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
-    padding: 4rem 0;
-    margin: -3rem 0 3rem 0;
+    padding: 5rem 0 4rem;
+}
+
+.hero-content {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    justify-content: center;
+}
+
+.hero-icon {
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+    flex-shrink: 0;
+}
+
+.hero-text {
+    max-width: 600px;
 }
 
 .hero h1 {
     font-size: 2.5rem;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
+    text-align: left;
+}
+
+.hero-description {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    text-align: left;
 }
 
 .hero h2 {
@@ -114,6 +140,94 @@ body {
 
 .hero li {
     margin: 0.5rem 0;
+}
+
+/* App Store Badge */
+.app-download {
+    margin-top: 2.5rem;
+    text-align: left;
+}
+
+.app-store-badge {
+    height: 60px;
+    width: auto;
+    transition: transform 0.2s ease;
+}
+
+.app-store-badge:hover {
+    transform: scale(1.05);
+}
+
+/* Features Section */
+.features-section {
+    background: var(--bg-color);
+    color: var(--text-color);
+    padding: 4rem 0;
+}
+
+.features-section h2 {
+    font-size: 1.8rem;
+    margin: 2rem 0 1rem;
+    color: var(--text-color);
+}
+
+.features-section p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--text-color);
+}
+
+.features-section ul {
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+}
+
+.features-section li {
+    margin: 0.75rem 0;
+    line-height: 1.8;
+}
+
+.features-section strong {
+    color: var(--text-color);
+}
+
+/* Bottom App Store Badge */
+.app-download-bottom {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    text-align: center;
+    border-top: 1px solid #e5e5e5;
+}
+
+.download-cta {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+    color: var(--text-color);
+}
+
+/* VisionOS Screenshot Section */
+.visionos-screenshot-section {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    background: #f8f8f8;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh; /* Minimum height to ensure app is visible */
+}
+
+.visionos-screenshot {
+    width: 100%;
+    height: auto;
+    max-height: 100vh; /* Maximum height is viewport height */
+    object-fit: cover;
+    object-position: center;
+    display: block;
 }
 
 .content {
@@ -197,12 +311,44 @@ body {
         gap: 0.5rem;
     }
 
+    .hero-content {
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .hero-icon {
+        width: 120px;
+        height: 120px;
+    }
+
     .hero h1 {
         font-size: 2rem;
+        text-align: center;
+    }
+
+    .hero-description {
+        font-size: 1.1rem;
+        text-align: center;
+    }
+
+    .app-download {
+        text-align: center;
     }
 
     .hero h2 {
         font-size: 1.5rem;
+    }
+
+    .features-section h2 {
+        font-size: 1.5rem;
+    }
+
+    .visionos-screenshot-section {
+        min-height: 40vh; /* Smaller minimum height on mobile */
+    }
+
+    .visionos-screenshot {
+        max-height: 80vh; /* Limit height more on mobile */
     }
 
     .footer-content {

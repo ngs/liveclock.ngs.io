@@ -1,8 +1,14 @@
 ---
 title: "Live Clock - Il Timer per Concerti"
+hero_title: "Cronometraggio Professionale di Precisione per Esibizioni dal Vivo"
+hero_description: "Live Clock il timer per concerti è la scelta dei professionisti per una gestione accurata del tempo durante esibizioni dal vivo, sessioni di registrazione e prove."
+download_cta: "Scarica Live Clock the Gig Timer e prendi il controllo del timing delle tue performance oggi."
+
 ---
 
-# Cronometraggio Professionale di Precisione per Esibizioni dal Vivo
+## Piattaforme supportate
+
+Disponibile su **iOS**, **macOS** e **visionOS** - perfettamente integrato su tutti i dispositivi Apple.
 
 Live Clock il timer per concerti è la scelta dei professionisti per una gestione accurata del tempo durante esibizioni dal vivo, sessioni di registrazione e prove.
 

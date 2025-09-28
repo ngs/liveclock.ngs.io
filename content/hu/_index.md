@@ -1,8 +1,14 @@
 ---
 title: "Live Clock - A Fellépés Időmérő"
+hero_title: "Professzionális precíz időmérés élő előadásokhoz"
+hero_description: "A Live Clock fellépés időmérő a szakemberek választása pontos időkezeléshez élő előadások, felvételi szekciók és próbák során."
+download_cta: "Töltse le a Live Clock the Gig Timer alkalmazást, és vegye át az irányítást az előadás időzítése felett még ma."
+
 ---
 
-# Professzionális precíz időmérés élő előadásokhoz
+## Támogatott platformok
+
+Elérhető **iOS**, **macOS** és **visionOS** rendszereken - zökkenőmentesen integrálva minden Apple eszközön.
 
 A Live Clock fellépés időmérő a szakemberek választása pontos időkezeléshez élő előadások, felvételi szekciók és próbák során.
 

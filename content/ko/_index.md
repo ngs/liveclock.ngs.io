@@ -1,8 +1,14 @@
 ---
 title: "Live Clock the Gig Timer"
+hero_title: "라이브 공연을 위한 전문 정밀 타이밍"
+hero_description: "Live Clock the Gig Timer는 라이브 공연, 녹음 세션, 리허설 시 정확한 시간 관리를 위한 전문가들의 선택입니다."
+download_cta: "Live Clock the Gig Timer를 다운로드하고 오늘 바로 공연 타이밍을 제어하세요."
+
 ---
 
-# 라이브 공연을 위한 전문 정밀 타이밍
+## 지원 플랫폼
+
+**iOS**, **macOS**, **visionOS**에서 사용 가능 - 모든 Apple 기기에서 완벽하게 통합됩니다.
 
 Live Clock the Gig Timer는 라이브 공연, 녹음 세션, 리허설 시 정확한 시간 관리를 위한 전문가들의 선택입니다.
 

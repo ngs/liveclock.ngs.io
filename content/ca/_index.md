@@ -1,8 +1,14 @@
 ---
 title: "Live Clock el Temporitzador de Concerts"
+hero_title: "Temporització Professional de Precisió per a Actuacions en Directe"
+hero_description: "Live Clock el Temporitzador de Concerts és l'elecció dels professionals per a la gestió precisa del temps durant actuacions en directe, sessions de gravació i assajos."
+download_cta: "Descarrega Live Clock the Gig Timer i pren el control del teu temps de rendiment avui."
+
 ---
 
-# Temporització Professional de Precisió per a Actuacions en Directe
+## Plataformes compatibles
+
+Disponible a **iOS**, **macOS** i **visionOS** - integrat perfectament en tots els dispositius Apple.
 
 Live Clock el Temporitzador de Concerts és l'elecció dels professionals per a la gestió precisa del temps durant actuacions en directe, sessions de gravació i assajos.
 

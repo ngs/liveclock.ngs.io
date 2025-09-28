@@ -1,8 +1,14 @@
 ---
 title: "Live Clock the Gig Timer"
+hero_title: "Ketepatan Masa Profesional untuk Persembahan Langsung"
+hero_description: "Live Clock the Gig Timer adalah pilihan profesional untuk pengurusan masa yang tepat semasa persembahan langsung, sesi rakaman, dan latihan."
+download_cta: "Muat turun Live Clock the Gig Timer dan kawal masa persembahan anda hari ini."
+
 ---
 
-# Ketepatan Masa Profesional untuk Persembahan Langsung
+## Platform yang Disokong
+
+Tersedia di **iOS**, **macOS**, dan **visionOS** - disepadukan dengan lancar merentas semua peranti Apple.
 
 Live Clock the Gig Timer adalah pilihan profesional untuk pengurusan masa yang tepat semasa persembahan langsung, sesi rakaman, dan latihan.
 

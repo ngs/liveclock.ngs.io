@@ -1,8 +1,14 @@
 ---
 title: "Live Clock the Gig Timer"
+hero_title: "专业级现场演出精密计时器"
+hero_description: "Live Clock the Gig Timer 是专业人士在现场演出、录音制作和排练时进行精确时间管理的首选工具。"
+download_cta: "下载 Live Clock the Gig Timer，立即掌控您的演出时间。"
+
 ---
 
-# 专业级现场演出精密计时器
+## 支持平台
+
+支持 **iOS**、**macOS** 和 **visionOS** - 在所有 Apple 设备上无缝集成。
 
 Live Clock the Gig Timer 是专业人士在现场演出、录音制作和排练时进行精确时间管理的首选工具。
 

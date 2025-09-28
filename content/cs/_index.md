@@ -1,8 +1,14 @@
 ---
 title: "Live Clock Časovač pro Koncerty"
+hero_title: "Profesionální Přesné Časování pro Živé Vystoupení"
+hero_description: "Live Clock Časovač pro Koncerty je volbou profesionálů pro přesné řízení času během živých vystoupení, nahrávacích sezení a zkoušek."
+download_cta: "Stáhněte si Live Clock the Gig Timer a převezměte kontrolu nad časováním vašeho vystoupení ještě dnes."
+
 ---
 
-# Profesionální Přesné Časování pro Živé Vystoupení
+## Podporované platformy
+
+Dostupné na **iOS**, **macOS** a **visionOS** - bezproblémově integrované napříč všemi zařízeními Apple.
 
 Live Clock Časovač pro Koncerty je volbou profesionálů pro přesné řízení času během živých vystoupení, nahrávacích sezení a zkoušek.
 

@@ -1,10 +1,13 @@
 ---
 title: "Live Clock the Gig Timer"
+hero_title: "Professional Precision Timing for Live Performance"
+hero_description: "Live Clock the Gig Timer is the professional's choice for accurate time management during live performances, recording sessions, and rehearsals."
+download_cta: "Download Live Clock the Gig Timer and take control of your performance timing today."
 ---
 
-# Professional Precision Timing for Live Performance
+## Supported Platforms
 
-Live Clock the Gig Timer is the professional's choice for accurate time management during live performances, recording sessions, and rehearsals.
+Available on **iOS**, **macOS**, and **visionOS** - seamlessly integrated across all Apple devices.
 
 ## Features
 
@@ -20,5 +23,3 @@ Live Clock the Gig Timer is the professional's choice for accurate time manageme
 - Band rehearsals
 - Stage productions
 - Broadcast timing
-
-Download Live Clock the Gig Timer and take control of your performance timing today.

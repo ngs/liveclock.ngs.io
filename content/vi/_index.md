@@ -1,8 +1,14 @@
 ---
 title: "Live Clock the Gig Timer"
+hero_title: "Định Thời Chính Xác Chuyên Nghiệp cho Biểu Diễn Trực Tiếp"
+hero_description: "Live Clock the Gig Timer là sự lựa chọn của các chuyên gia cho việc quản lý thời gian chính xác trong các buổi biểu diễn trực tiếp, phiên thu âm và tập luyện."
+download_cta: "Tải xuống Live Clock the Gig Timer và kiểm soát thời gian biểu diễn của bạn ngay hôm nay."
+
 ---
 
-# Định Thời Chính Xác Chuyên Nghiệp cho Biểu Diễn Trực Tiếp
+## Nền tảng được hỗ trợ
+
+Có sẵn trên **iOS**, **macOS** và **visionOS** - tích hợp liền mạch trên tất cả thiết bị Apple.
 
 Live Clock the Gig Timer là sự lựa chọn của các chuyên gia cho việc quản lý thời gian chính xác trong các buổi biểu diễn trực tiếp, phiên thu âm và tập luyện.
 

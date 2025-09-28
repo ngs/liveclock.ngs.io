@@ -1,7 +1,44 @@
 {{ define "main" }}
 <div class="hero">
     <div class="container">
-        {{ .Content }}
+        <div class="hero-content">
+            <img src="/img/icon.png" alt="Live Clock the Gig Timer" class="hero-icon">
+            <div class="hero-text">
+                <h1>{{ .Params.hero_title | default "Professional Precision Timing for Live Performance" }}</h1>
+                <p class="hero-description">{{ .Params.hero_description | default "Live Clock the Gig Timer is the professional's choice for accurate time management during live performances, recording sessions, and rehearsals." }}</p>
+
+                <div class="app-download">
+                    <a href="https://apps.apple.com/app/liveclock-the-gig-timer/id6752553093" target="_blank" rel="noopener noreferrer">
+                        <img src="/img/appstore-banner/{{ .Language.Lang }}.svg"
+                             alt="Download on the App Store"
+                             class="app-store-badge">
+                    </a>
+                </div>
+            </div>
+        </div>
     </div>
+</div>
+
+<div class="features-section">
+    <div class="container">
+        {{ .Content }}
+
+        <div class="app-download-bottom">
+            <p class="download-cta">{{ .Params.download_cta | default "Download Live Clock the Gig Timer and take control of your performance timing today." }}</p>
+            <a href="https://apps.apple.com/app/liveclock-the-gig-timer/id6752553093" target="_blank" rel="noopener noreferrer">
+                <img src="/img/appstore-banner/{{ .Language.Lang }}.svg"
+                     alt="Download on the App Store"
+                     class="app-store-badge">
+            </a>
+        </div>
+    </div>
+</div>
+{{ end }}
+
+{{ define "fullwidth" }}
+<div class="visionos-screenshot-section">
+    <img src="/img/screenshots/visionos.jpg"
+         alt="Live Clock running on Apple Vision Pro"
+         class="visionos-screenshot">
 </div>
 {{ end }}

@@ -1,8 +1,14 @@
 ---
 title: "Live Clock - Timer Pertunjukan"
+hero_title: "Pengaturan Waktu Presisi Profesional untuk Pertunjukan Langsung"
+hero_description: "Live Clock timer pertunjukan adalah pilihan para profesional untuk manajemen waktu yang akurat selama pertunjukan langsung, sesi rekaman, dan latihan."
+download_cta: "Unduh Live Clock the Gig Timer dan kendalikan waktu pertunjukan Anda hari ini."
+
 ---
 
-# Pengaturan Waktu Presisi Profesional untuk Pertunjukan Langsung
+## Platform yang Didukung
+
+Tersedia di **iOS**, **macOS**, dan **visionOS** - terintegrasi sempurna di semua perangkat Apple.
 
 Live Clock timer pertunjukan adalah pilihan para profesional untuk manajemen waktu yang akurat selama pertunjukan langsung, sesi rekaman, dan latihan.
 

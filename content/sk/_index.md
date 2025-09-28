@@ -1,8 +1,14 @@
 ---
 title: "Live Clock the Gig Timer"
+hero_title: "Profesionálne Presné Časovanie pre Živé Vystúpenia"
+hero_description: "Live Clock the Gig Timer je profesionálnou voľbou pre presné riadenie času počas živých vystúpení, nahrávacích sedení a skúšok."
+download_cta: "Stiahnite si Live Clock the Gig Timer a prevezmite kontrolu nad časovaním vášho vystúpenia ešte dnes."
+
 ---
 
-# Profesionálne Presné Časovanie pre Živé Vystúpenia
+## Podporované platformy
+
+Dostupné na **iOS**, **macOS** a **visionOS** - bezproblémovo integrované naprieč všetkými zariadeniami Apple.
 
 Live Clock the Gig Timer je profesionálnou voľbou pre presné riadenie času počas živých vystúpení, nahrávacích sedení a skúšok.
 
